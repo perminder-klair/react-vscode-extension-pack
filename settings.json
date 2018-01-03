@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 15,
+    "eslint.autoFixOnSave": true,
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0.5,
+    "window.restoreWindows": "all",
+    "window.newWindowDimensions": "inherit"
+}

@@ -1,0 +1,64 @@
+{
+  "name": "react-vscode-extension-pack",
+  "version": "0.1.0",
+  "publisher": "perminder-klair",
+  "displayName": "ReactJs VS Code Extension Pack",
+  "description":
+    "A collection of extensions for working with ReactJs Applications in VS Code",
+  "galleryBanner": {
+    "color": "#47B784",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/perminder-klair/react-vscode-extension-pack"
+  },
+  "homepage": "https://github.com/perminder-klair/react-vscode-extension-pack",
+  "bugs": {
+    "url": "https://github.com/perminder-klair/react-vscode-extension-pack/issues"
+  },
+  "keywords": ["react", "reactjs", "extension pack", "react extension collection"],
+  "categories": ["Extension Packs"],
+  "engines": {
+    "vscode": "^1.19.1"
+  },
+  "extensionDependencies": [
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "dzannotti.vscode-babel-coloring",
+    "alefragnani.bookmarks",
+    "CoenraadS.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "alexdima.copy-relative-path",
+    "msjsdiag.debugger-for-chrome",
+    "joelday.docthis",
+    "dsznajder.es7-react-js-snippet",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "codezombiech.gitignore",
+    "kumar-harsh.graphql-for-vscode",
+    "ecmel.vscode-html-css",
+    "abusaidm.html-snippets",
+    "xabikos.javascriptsnippets",
+    "yzhang.markdown-all-in-one",
+    "ms-vscode.node-debug2",
+    "eg2.vscode-npm-script",
+    "christian-kohler.npm-intellisense",
+    "zhuangtongfa.material-theme",
+    "IBM.output-colorizer",
+    "christian-kohler.path-intellisense",
+    "felixfbecker.php-debug",
+    "felixfbecker.php-pack",
+    "Sophisticode.php-formatter",
+    "esbenp.prettier-vscode",
+    "vsmobile.vscode-react-native",
+    "timothymclane.react-redux-es6-snippets",
+    "xabikos.reactsnippets",
+    "Shan.code-settings-sync",
+    "formulahendry.terminal",
+    "wayou.vscode-todo-highlight",
+    "robertohuertasm.vscode-icons"
+  ]
+}
